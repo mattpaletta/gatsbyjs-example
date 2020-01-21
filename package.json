@@ -1,0 +1,19 @@
+{
+  "name": "gatsbyjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattpaletta/gatsbyjs-example.git"
+  },
+  "author": "Matthew Paletta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattpaletta/gatsbyjs-example/issues"
+  },
+  "homepage": "https://github.com/mattpaletta/gatsbyjs-example#readme"
+}
